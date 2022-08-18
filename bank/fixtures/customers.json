@@ -1,0 +1,30 @@
+[
+    {
+        "model": "bank.customer",
+        "pk": 1,
+        "fields": {
+            "name": "Michael Scott"
+        }
+    },
+    {
+        "model": "bank.customer",
+        "pk": 2,
+        "fields": {
+            "name": "Dwight Schrute"
+        }
+    },
+    {
+        "model": "bank.customer",
+        "pk": 3,
+        "fields": {
+            "name": "Jim Halpert"
+        }
+    },
+    {
+        "model": "bank.customer",
+        "pk": 4,
+        "fields": {
+            "name": "Pam Beesley"
+        }
+    }
+]
